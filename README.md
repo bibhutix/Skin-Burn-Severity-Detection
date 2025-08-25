@@ -20,7 +20,7 @@ Achieved 94% accuracy in burn severity classification, enabling faster and more 
 📂 Project Structure
 skin-burn-severity-detection-
 
-skin-burn-severity-detection/
+```skin-burn-severity-detection/
 │
 ├── models/                      # Trained YOLO model (.onnx)
 ├── data.yaml                    # Dataset config file (class labels, nc, paths)
@@ -28,7 +28,7 @@ skin-burn-severity-detection/
 ├── predictions.py               # Script for running YOLO predictions
 ├── skin_burn_detection.ipynb    # Training + evaluation notebook
 ├── requirements.txt             # Python dependencies
-└── README.md                    # Project overview (this file)
+└── README.md                    # Project overview (this file)```
 
 
 🧠 Model Details

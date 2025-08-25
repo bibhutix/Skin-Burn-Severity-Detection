@@ -85,7 +85,7 @@ Inference Speed: Real-time detection using CPU with OpenCV DNN
 
 Clone the repository:
 
-git clone https://github.com/your-username/skin-burn-severity-detection.git
+git clone https://github.com/bibhutix/Skin-Burn-Severity-Detection
 cd skin-burn-severity-detection
 
 

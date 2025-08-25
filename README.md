@@ -28,7 +28,8 @@ skin-burn-severity-detection-
 ├── predictions.py               # Script for running YOLO predictions
 ├── skin_burn_detection.ipynb    # Training + evaluation notebook
 ├── requirements.txt             # Python dependencies
-└── README.md                    # Project overview (this file)```
+└── README.md                    # Project overview (this file)
+```
 
 
 🧠 Model Details
